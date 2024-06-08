@@ -1,4 +1,4 @@
-# SNAKE/WATER/GUNgame
+ # SNAKE/WATER/GUNgame
 Snake, Water and gun game 
 Hey fork welcome all, this my first project with reference to WEB DEVELOPMENT.The main aim of this project is to understand the workflow of "Math" which is a built-in object in JavaScript.
 Through this project you will get to know how the in-built "Math function" is used and implemented. Overthis project i just used only two "Math Function"- math.floor and math.random.
